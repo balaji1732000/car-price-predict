@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-!2lsbfqhrpxl!_qx%uxpd3)%z%kw+2que6a9ot=)@&i3(*^o8m
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['carsell-price-prediction.herokuapp.com','127.0.0.1']
 
 
 # Application definition
