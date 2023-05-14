@@ -27,8 +27,6 @@ This project involves creating a car price prediction model using different mach
 ## Model Performance
 
 # Linear Regression
-![Screenshot 2023-05-14 205600](https://github.com/balaji1732000/car-price-predict/assets/70811241/51c2e078-f9cf-4c24-bf43-c366ad2fe48d)
-![Screenshot 2023-05-14 205706](https://github.com/balaji1732000/car-price-predict/assets/70811241/94af1f94-2fda-42ad-9352-9c447c7171f0)
 ![Screenshot_20230108_114009](https://github.com/balaji1732000/car-price-predict/assets/70811241/aee46b34-5ed7-485a-9675-130309a5bda9)
 ![Screenshot 2023-05-14 204830](https://github.com/balaji1732000/car-price-predict/assets/70811241/d933de94-bd62-4320-bbd1-419969b22013)
 ![Screenshot 2023-05-14 204923](https://github.com/balaji1732000/car-price-predict/assets/70811241/651d13a7-9f67-4e05-b4cc-0b736796bd40)
@@ -41,6 +39,7 @@ This project involves creating a car price prediction model using different mach
 After evaluating the performance of different machine learning algorithms, we found that the Random Forest algorithm performed the best with an accuracy score of 0.8931259105488091.
 
 ## Hyperparameter Tuning
+![Screenshot 2023-05-14 205600](https://github.com/balaji1732000/car-price-predict/assets/70811241/51c2e078-f9cf-4c24-bf43-c366ad2fe48d)
 
 We used the GridSearchCV algorithm to fine-tune the model's hyperparameters, resulting in improved accuracy.
 
