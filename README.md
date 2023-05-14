@@ -2,7 +2,7 @@ I apologize for not meeting your expectations. Here's an updated version of the 
 
 # Car Price Prediction Model
 
-![car image](car.jpg)
+![Car Price Prediction](https://github.com/balaji1732000/car-price-predict/assets/70811241/810ba7b7-8de2-4268-a84d-26e7e00e3cef)
 
 This project involves creating a car price prediction model using different machine learning algorithms, including KNeighbors, Random Forest, Decision Tree, and more. After evaluating the performance of these algorithms, we found that Random Forest (with an accuracy score of 0.8931259105488091) performed the best. Finally, we fine-tuned the model using the GridSearchCV algorithm.
 
