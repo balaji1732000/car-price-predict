@@ -27,10 +27,16 @@ This project involves creating a car price prediction model using different mach
 ## Model Performance
 
 # Linear Regression
-![Screenshot_20230108_114009](https://github.com/balaji1732000/car-price-predict/assets/70811241/aee46b34-5ed7-485a-9675-130309a5bda9)
+Linear Regression
 ![Screenshot 2023-05-14 204830](https://github.com/balaji1732000/car-price-predict/assets/70811241/d933de94-bd62-4320-bbd1-419969b22013)
+
+# Random Forest
 ![Screenshot 2023-05-14 204923](https://github.com/balaji1732000/car-price-predict/assets/70811241/651d13a7-9f67-4e05-b4cc-0b736796bd40)
+
+# KNeighbors
 ![Screenshot 2023-05-14 205001](https://github.com/balaji1732000/car-price-predict/assets/70811241/bba1fb40-60ca-4785-a989-a2c31d68f58c)
+
+# Decision Tree
 ![Screenshot 2023-05-14 205029](https://github.com/balaji1732000/car-price-predict/assets/70811241/906917d6-bfac-4dcc-b849-f11e1f140679)
 ![Screenshot 2023-05-14 205118](https://github.com/balaji1732000/car-price-predict/assets/70811241/98d2f1b3-a418-419f-bb23-7389fbc02602)
 ![Screenshot 2023-05-14 205210](https://github.com/balaji1732000/car-price-predict/assets/70811241/49b5a6b4-bcc7-4a97-ae1f-fd73e5b781a5)
